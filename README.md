@@ -75,6 +75,20 @@ Make sure to get the right ```chromedriver``` for your system [from here](https:
 or
 3. python setup.py install
 ```
+### InstaPy SubFolder
+```bash
+1. pip install .
+or
+3. python setup.py install
+```
+### Executing a File:
+When executing a file on your local machine to run it do 
+```bash
+1. python ./quickstart.py
+Or
+2. python3.5 ./quickstart.py 
+```
+
 
 ## API
 
